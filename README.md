@@ -23,18 +23,11 @@ My background in design and branding shapes the way I approach creativity, commu
 
 <div align="center">
 
-<!-- Automation & Development -->
-
-<img src="https://skillicons.dev/icons?i=python" alt="Python" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://skillicons.dev/icons?i=git" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-
-<br><br>
-
-<!-- Design -->
-
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48"/>
 
 </div>
 
