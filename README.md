@@ -17,4 +17,62 @@ I'm a graphic designer transitioning into AI Automation.
 
 I'm exploring how AI agents, automation workflows, and APIs can be used to solve real problems. I'm currently developing my Python fundamentals and building practical projects with n8n.
 
-My background in design, branding, photography, and video production shapes the way I approach creativity, communication, and problem-solving.
+My background in design and branding shapes the way I approach creativity, communication, and problem-solving.
+
+## Technologies
+
+<div align="center">
+
+<!-- Automation & Development -->
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+
+<br><br>
+
+<!-- Design -->
+
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+
+</div>
+
+### Currently Learning
+
+- Python fundamentals
+- Workflow Automation
+- AI Agents
+- API Integrations
+- JSON & Data Manipulation
+- Prompt Engineering
+
+## Featured Project
+
+### AI Barbershop Appointment Assistant
+
+A personal project built with n8n to explore AI-powered appointment management for barbershops.
+
+The project focuses on workflow automation, AI agent interactions, and integrations with external services.
+
+[Check out the project](https://github.com/rafaelalsilveira/ai-barbershop-assistant)
+
+## Background
+
+Before transitioning into automation, I worked with graphic design and branding in Brazil and Portugal.
+
+My creative background influences the way I approach problem-solving, communication, and user experience. I'm interested in the intersection of creativity, technology, and practical solutions.
+
+## Find Me Online
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rafaela-silveira-986a50350/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.behance.net/rafaelasilveira11">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+</a>
+
+</div>
