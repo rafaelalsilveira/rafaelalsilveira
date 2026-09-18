@@ -8,12 +8,12 @@ My background in design has shaped the way I think about communication, user exp
 
 ## What I'm working with
 
-* n8n & AI Agents
-* Workflow Automation
-* API Integrations
-* Prompt Engineering
-* JavaScript (currently learning)
-* JSON & Data Manipulation
+- n8n & AI Agents
+- Workflow Automation
+- API Integrations
+- Prompt Engineering
+- Python (currently learning)
+- JSON & Data Manipulation
 
 ## Featured Project
 
@@ -23,17 +23,17 @@ A personal project built with n8n to explore how an AI agent can handle barbersh
 
 The workflow includes:
 
-* Appointment scheduling, rescheduling, and cancellation
-* Google Calendar integration
-* Google Sheets integration
-* Availability checks
-* Debugging real issues during development and testing
+- Appointment scheduling, rescheduling, and cancellation
+- Google Calendar integration
+- Google Sheets integration
+- Availability checks
+- Debugging real issues during development and testing
 
 [Check out the project](https://github.com/rafaelalsilveira/ai-barbershop-assistant)
 
 ## Currently Learning
 
-I'm currently strengthening my JavaScript fundamentals, with a focus on applying what I learn to n8n Code nodes, APIs, and data-driven workflows.
+I'm currently strengthening my Python fundamentals, with a focus on applying what I learn to automation scripts, API integrations, and data-driven workflows.
 
 ## A bit about my background
 
@@ -43,5 +43,5 @@ I'm interested in the intersection of creativity, technology, and practical prob
 
 ## Find me online
 
-* [LinkedIn](https://www.linkedin.com/in/rafaela-silveira-986a50350/)
-* [Behance](https://www.behance.net/rafaelasilveira11)
+- [LinkedIn](https://www.linkedin.com/in/rafaela-silveira-986a50350/)
+- [Behance](https://www.behance.net/rafaelasilveira11)
