@@ -1,12 +1,15 @@
 name: generate animation
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -18,7 +21,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
