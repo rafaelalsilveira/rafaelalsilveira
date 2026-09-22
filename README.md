@@ -15,9 +15,11 @@
 
 I'm a graphic designer transitioning into AI Automation.
 
-I'm exploring how AI agents, automation workflows, and APIs can be used to solve real problems. I'm currently developing my Python fundamentals and building practical projects with n8n.
+I'm building practical projects with n8n and Python, exploring AI agents, workflow automation, API integrations, and document analysis.
 
 My background in design and branding shapes the way I approach creativity, communication, and problem-solving.
+
+I'm interested in building useful solutions while continuously improving my technical skills.
 
 ## Technologies
 
@@ -31,30 +33,52 @@ My background in design and branding shapes the way I approach creativity, commu
 
 </div>
 
-### Currently Learning
+### Current Skills & Areas of Practice
 
-- Python fundamentals
-- Workflow Automation
+- Workflow Automation with n8n
 - AI Agents
 - API Integrations
 - JSON & Data Manipulation
 - Prompt Engineering
+- Python Fundamentals
+- Git & GitHub
 
-## Featured Project
+### Currently Learning
+
+- Python: Programming Fundamentals
+- Automation Systems
+- Database Fundamentals
+- Scrum and Agile Project Management
+
+## Featured Projects
 
 ### AI Barbershop Appointment Assistant
 
 A personal project built with n8n to explore AI-powered appointment management for barbershops.
 
-The project focuses on workflow automation, AI agent interactions, and integrations with external services.
+The project includes appointment scheduling, rescheduling, cancellation, availability checking, and integrations with external services.
+
+The development process involved debugging workflow logic, timezone handling, AI model behavior, and data integration challenges.
 
 [Check out the project](https://github.com/rafaelalsilveira/ai-barbershop-assistant)
+
+### CV Shield
+
+A Python project focused on analyzing PDF resumes and identifying suspicious patterns, including potential prompt injection attempts targeting AI recruitment systems.
+
+The project focuses on extracting text, detecting categorized patterns, writing automated tests, and documenting the development process.
+
+CV Shield provides evidence and alerts for human review and does not make hiring decisions.
+
+[Check out the project](https://github.com/rafaelalsilveira/CV-Shield)
 
 ## Background
 
 Before transitioning into automation, I worked with graphic design and branding in Brazil and Portugal.
 
-My creative background influences the way I approach problem-solving, communication, and user experience. I'm interested in the intersection of creativity, technology, and practical solutions.
+My creative background influences the way I approach problem-solving, communication, and user experience.
+
+I'm interested in the intersection of creativity, technology, and practical solutions.
 
 ## Find Me Online
 
