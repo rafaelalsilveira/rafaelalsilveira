@@ -3,7 +3,7 @@
 <h2>Hey, I'm Rafaela</h2>
 
 <p>
-  Graphic Designer → AI Automation
+  Graphic Designer -> AI Automation
 </p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9B2242&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+n8n;Applying+Python+to+real+projects;Automating+real+workflows;Debugging+and+learning" alt="Typing SVG" />
