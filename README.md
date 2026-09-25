@@ -34,17 +34,18 @@ I'm interested in building useful solutions while continuously improving my tech
 
 ### Current Skills & Areas of Practice
 
+* Python Fundamentals
 * Workflow Automation with n8n
 * AI Agents
 * API Integrations
 * JSON & Data Manipulation
 * Prompt Engineering
-* Python Fundamentals
 * Git & GitHub
 
 ### Currently Learning
 
 * Python: Applied Programming
+* Database Fundamentals
 * AI Automation
 * API Integrations
 * Automation Workflows
@@ -91,3 +92,5 @@ I'm interested in the intersection of creativity, technology, and practical solu
 <a href="https://www.behance.net/rafaelasilveira11">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
 </a>
+
+</div>
