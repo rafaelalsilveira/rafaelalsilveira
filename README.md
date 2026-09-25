@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h2>Hey, I'm Rafaela</h2>
@@ -7,7 +6,7 @@
   Graphic Designer → AI Automation
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9B2242&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+n8n;Learning+Python;Automating+real+workflows;Debugging+and+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9B2242&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+n8n;Applying+Python+to+real+projects;Automating+real+workflows;Debugging+and+learning" alt="Typing SVG" />
 
 </div>
 
@@ -35,20 +34,21 @@ I'm interested in building useful solutions while continuously improving my tech
 
 ### Current Skills & Areas of Practice
 
-- Workflow Automation with n8n
-- AI Agents
-- API Integrations
-- JSON & Data Manipulation
-- Prompt Engineering
-- Python Fundamentals
-- Git & GitHub
+* Workflow Automation with n8n
+* AI Agents
+* API Integrations
+* JSON & Data Manipulation
+* Prompt Engineering
+* Python Fundamentals
+* Git & GitHub
 
 ### Currently Learning
 
-- Python: Programming Fundamentals
-- Automation Systems
-- Database Fundamentals
-- Scrum and Agile Project Management
+* Python: Applied Programming
+* AI Automation
+* API Integrations
+* Automation Workflows
+* Scrum and Agile Project Management
 
 ## Featured Projects
 
@@ -91,5 +91,3 @@ I'm interested in the intersection of creativity, technology, and practical solu
 <a href="https://www.behance.net/rafaelasilveira11">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
 </a>
-
-</div>
