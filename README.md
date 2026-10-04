@@ -1,26 +1,26 @@
 <div align="center">
 
-<h2>Hey, I'm Rafaela</h2>
+<h2>Oi, eu sou a Rafaela</h2>
 
 <p>
-  Graphic Designer -> AI Automation
+  Designer Gráfica -> Automação com IA
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9B2242&center=true&vCenter=true&width=600&lines=Building+AI+Agents+with+n8n;Applying+Python+to+real+projects;Automating+real+workflows;Debugging+and+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9B2242&center=true&vCenter=true&width=600&lines=Construindo+Agentes+de+IA+com+n8n;Aplicando+Python+em+projetos+reais;Automatizando+fluxos+de+trabalho+reais;Debugando+e+aprendendo" alt="Typing SVG" />
 
 </div>
 
-## About Me
+## Sobre Mim
 
-I'm a graphic designer transitioning into AI Automation.
+Sou designer gráfica em transição para Automação com IA.
 
-I'm building practical projects with n8n and Python, exploring AI agents, workflow automation, API integrations, and document analysis.
+Estou construindo projetos práticos com n8n e Python, explorando agentes de IA, automação de fluxos de trabalho, integrações de API e análise de documentos.
 
-My background in design and branding shapes the way I approach creativity, communication, and problem-solving.
+Minha experiência em design e branding molda a forma como eu lido com criatividade, comunicação e resolução de problemas.
 
-I'm interested in building useful solutions while continuously improving my technical skills.
+Tenho interesse em construir soluções úteis enquanto aprimoro continuamente minhas habilidades técnicas.
 
-## Technologies
+## Tecnologias
 
 <div align="center">
 
@@ -32,65 +32,61 @@ I'm interested in building useful solutions while continuously improving my tech
 
 </div>
 
-### Current Skills & Areas of Practice
+### Habilidades Atuais e Áreas de Atuação
 
-* Python Fundamentals
-* Workflow Automation with n8n
-* AI Agents
-* API Integrations
-* JSON & Data Manipulation
-* Prompt Engineering
+* Fundamentos de Python
+* Automação de Fluxos de Trabalho com n8n
+* Agentes de IA
+* Integrações de API
+* JSON e Manipulação de Dados
+* Engenharia de Prompt
 * Git & GitHub
 
-### Currently Learning
+### Em Aprendizado Atualmente
 
-* Python: Applied Programming
-* Database Fundamentals
-* AI Automation
-* API Integrations
-* Automation Workflows
-* Scrum and Agile Project Management
+* Python: Programação Aplicada
+* Fundamentos de Banco de Dados
+* Automação com IA
+* Integrações de API
+* Fluxos de Automação
+* Scrum e Gestão Ágil de Projetos
 
-## Featured Projects
+## Projetos em Destaque
 
-### AI Barbershop Appointment Assistant
+### Assistente de Agendamento para Barbearia com IA
 
-A personal project built with n8n to explore AI-powered appointment management for barbershops.
+Projeto pessoal construído com n8n para explorar gestão de agendamentos com IA para barbearias.
 
-The project includes appointment scheduling, rescheduling, cancellation, availability checking, and integrations with external services.
+O projeto inclui agendamento, reagendamento, cancelamento, verificação de disponibilidade e integrações com serviços externos.
 
-The development process involved debugging workflow logic, timezone handling, AI model behavior, and data integration challenges.
+O processo de desenvolvimento envolveu depuração de lógica de fluxo de trabalho, tratamento de fuso horário, comportamento do modelo de IA e desafios de integração de dados.
 
-[Check out the project](https://github.com/rafaelalsilveira/ai-barbershop-assistant)
+[Conheça o projeto](https://github.com/rafaelalsilveira/ai-barbershop-assistant)
 
 ### CV Shield
 
-A Python project focused on analyzing PDF resumes and identifying suspicious patterns, including potential prompt injection attempts targeting AI recruitment systems.
+Projeto em Python focado em analisar currículos em PDF e identificar padrões suspeitos, incluindo possíveis tentativas de prompt injection direcionadas a sistemas de recrutamento com IA.
 
-The project focuses on extracting text, detecting categorized patterns, writing automated tests, and documenting the development process.
+O projeto foca em extração de texto, detecção de padrões categorizados, escrita de testes automatizados e documentação do processo de desenvolvimento.
 
-CV Shield provides evidence and alerts for human review and does not make hiring decisions.
+O CV Shield fornece evidências e alertas para revisão humana e não toma decisões de contratação.
 
-[Check out the project](https://github.com/rafaelalsilveira/CV-Shield)
+[Conheça o projeto](https://github.com/rafaelalsilveira/CV-Shield)
 
-## Background
+## Trajetória
 
-Before transitioning into automation, I worked with graphic design and branding in Brazil and Portugal.
+Antes de migrar para automação, trabalhei com design gráfico e branding no Brasil e em Portugal.
 
-My creative background influences the way I approach problem-solving, communication, and user experience.
+Minha experiência criativa influencia a forma como lido com resolução de problemas, comunicação e experiência do usuário.
 
-I'm interested in the intersection of creativity, technology, and practical solutions.
+Tenho interesse na interseção entre criatividade, tecnologia e soluções práticas.
 
-## Find Me Online
+## Me Encontre Online
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rafaela-silveira-986a50350/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://www.behance.net/rafaelasilveira11">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
 </a>
 
 </div>
