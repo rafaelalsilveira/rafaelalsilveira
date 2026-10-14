@@ -6,7 +6,7 @@
   Designer Gráfica -> Automação com IA
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9B2242&center=true&vCenter=true&width=600&lines=Construindo+Agentes+de+IA+com+n8n;Aplicando+Python+em+projetos+reais;Automatizando+fluxos+de+trabalho+reais;Debugando+e+aprendendo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9B2242&center=true&vCenter=true&width=600&lines=Construindo+Agentes+de+IA+com+n8n;Aplicando+Python+em+projetos+pr%C3%A1ticos;Automatizando+fluxos+de+trabalho;Debugando+e+aprendendo" alt="Typing SVG" />
 
 </div>
 
@@ -35,6 +35,7 @@ Tenho interesse em construir soluções úteis enquanto aprimoro continuamente m
 ### Habilidades Atuais e Áreas de Atuação
 
 * Fundamentos de Python
+* Fundamentos de Banco de Dados
 * Automação de Fluxos de Trabalho com n8n
 * Agentes de IA
 * Integrações de API
@@ -42,14 +43,15 @@ Tenho interesse em construir soluções úteis enquanto aprimoro continuamente m
 * Engenharia de Prompt
 * Git & GitHub
 
-### Em Aprendizado Atualmente
+### Aprendizado
 
-* Python: Programação Aplicada
-* Fundamentos de Banco de Dados
-* Automação com IA
-* Integrações de API
-* Fluxos de Automação
-* Scrum e Gestão Ágil de Projetos
+* Banco de Dados: fundamentos (IFRS) — **concluído**
+* Aprendendo com Python (Enap) — **concluído**
+* Python: Programação Aplicada — **em andamento**
+* Automação com IA — **em andamento**
+* Integrações de API — **em andamento**
+* Fluxos de Automação — **em andamento**
+* Scrum e Gestão Ágil de Projetos — **em andamento**
 
 ## Projetos em Destaque
 
@@ -77,7 +79,7 @@ Tenho interesse na interseção entre criatividade, tecnologia e soluções prá
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rafaela-silveira-986a50350/">
+<a href="https://www.linkedin.com/in/rafaelasilveira92/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
