@@ -53,25 +53,17 @@ Tenho interesse em construir soluções úteis enquanto aprimoro continuamente m
 
 ## Projetos em Destaque
 
-### Assistente de Agendamento para Barbearia com IA
+### [Assistente de Agendamento para Barbearia com IA](https://github.com/rafaelalsilveira/ai-barbershop-assistant)
 
-Projeto pessoal construído com n8n para explorar gestão de agendamentos com IA para barbearias.
+Agente de IA no n8n que agenda, reagenda e cancela horários por conversa, em linguagem natural. Consulta o Google Calendar de verdade antes de confirmar, oferece alternativas quando o horário está ocupado e busca preços e horários no Google Sheets.
 
-O projeto inclui agendamento, reagendamento, cancelamento, verificação de disponibilidade e integrações com serviços externos.
+Tem seis ferramentas e memória por sessão. O README conta o que deu errado (fuso horário, filtro da planilha, comportamento do modelo) e como resolvi.
 
-O processo de desenvolvimento envolveu depuração de lógica de fluxo de trabalho, tratamento de fuso horário, comportamento do modelo de IA e desafios de integração de dados.
+### [CV Shield](https://github.com/rafaelalsilveira/CV-Shield)
 
-[Conheça o projeto](https://github.com/rafaelalsilveira/ai-barbershop-assistant)
+Ferramenta em Python que analisa currículos em PDF e detecta tentativas de manipular sistemas de recrutamento com IA: frases suspeitas, texto escondido (fonte minúscula, cor quase branca, fora da página) e parecer de um LLM via Groq.
 
-### CV Shield
-
-Projeto em Python focado em analisar currículos em PDF e identificar padrões suspeitos, incluindo possíveis tentativas de prompt injection direcionadas a sistemas de recrutamento com IA.
-
-O projeto foca em extração de texto, detecção de padrões categorizados, escrita de testes automatizados e documentação do processo de desenvolvimento.
-
-O CV Shield fornece evidências e alertas para revisão humana e não toma decisões de contratação.
-
-[Conheça o projeto](https://github.com/rafaelalsilveira/CV-Shield)
+Tem API em FastAPI, formulário no n8n, comando de lote com relatório HTML e mais de 120 testes automatizados. Só aponta sinais: a decisão sobre cada currículo é sempre humana.
 
 ## Trajetória
 
