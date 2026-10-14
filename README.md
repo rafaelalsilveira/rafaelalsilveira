@@ -47,11 +47,11 @@ Tenho interesse em construir soluções úteis enquanto aprimoro continuamente m
 
 * Banco de Dados: fundamentos (IFRS) — **concluído**
 * Aprendendo com Python (Enap) — **concluído**
-* Python: Programação Aplicada — **em andamento**
-* Automação com IA — **em andamento**
-* Integrações de API — **em andamento**
-* Fluxos de Automação — **em andamento**
-* Scrum e Gestão Ágil de Projetos — **em andamento**
+* Python: Programação Aplicada 
+* Automação com IA 
+* Integrações de API 
+* Fluxos de Automação 
+* Scrum e Gestão Ágil de Projetos
 
 ## Projetos em Destaque
 
