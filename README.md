@@ -65,7 +65,7 @@ Tem seis ferramentas e memória por sessão. O README conta o que deu errado (fu
 
 Ferramenta em Python que analisa currículos em PDF e detecta tentativas de manipular sistemas de recrutamento com IA: frases suspeitas, texto escondido (fonte minúscula, cor quase branca, fora da página) e parecer de um LLM via Groq.
 
-Tem API em FastAPI, formulário no n8n, comando de lote com relatório HTML e mais de 120 testes automatizados. Só aponta sinais: a decisão sobre cada currículo é sempre humana.
+Tem API em FastAPI, formulário no n8n, comando de lote com relatório HTML e mais de 150 testes automatizados. Só aponta sinais: a decisão sobre cada currículo é sempre humana.
 
 ## Trajetória
 
