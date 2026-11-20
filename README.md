@@ -51,19 +51,20 @@ Tenho interesse em construir soluções úteis enquanto aprimoro continuamente m
 * Automação com IA
 * Integrações de API
 * Fluxos de Automação
+* RPA Developer Foundation (UiPath Academy) — **em andamento**
 * Scrum e Gestão Ágil de Projetos
 
 ## Projetos em Destaque
 
 ### [Assistente de Agendamento para Barbearia com IA](https://github.com/rafaelalsilveira/ai-barbershop-assistant)
 
-Agente de IA no n8n que agenda, reagenda e cancela horários por conversa, em linguagem natural. Consulta o Google Calendar de verdade antes de confirmar, oferece alternativas quando o horário está ocupado e busca preços e horários no Google Sheets.
+Agente de IA no n8n que agenda, reagenda e cancela horários por conversa, em linguagem natural. Consulta a disponibilidade no Google Calendar antes de confirmar, oferece alternativas quando o horário está ocupado e busca preços e horários no Google Sheets.
 
 Tem seis ferramentas e memória por sessão. O README conta o que deu errado (fuso horário, filtro da planilha, comportamento do modelo) e como resolvi.
 
 ### [CV Shield](https://github.com/rafaelalsilveira/CV-Shield)
 
-Ferramenta em Python que analisa currículos em PDF e detecta tentativas de manipular sistemas de recrutamento com IA: frases suspeitas, texto escondido (fonte minúscula, cor quase branca, fora da página) e parecer de um LLM via Groq.
+Ferramenta em Python, em desenvolvimento, que analisa currículos em PDF e detecta tentativas de manipular sistemas de recrutamento com IA: frases suspeitas, texto escondido (fonte minúscula, cor quase branca, fora da página) e parecer de um LLM via Groq.
 
 Tem API em FastAPI, formulário no n8n, comando de lote com relatório HTML e mais de 150 testes automatizados. Só aponta sinais: a decisão sobre cada currículo é sempre humana.
 
