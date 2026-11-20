@@ -3,7 +3,7 @@
 <h2>Oi, eu sou a Rafaela</h2>
 
 <p>
-  Designer Gráfica -> Automação com IA
+  Automação com IA | AI Agents | n8n | Python
 </p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9B2242&center=true&vCenter=true&width=600&lines=Construindo+Agentes+de+IA+com+n8n;Aplicando+Python+em+projetos+pr%C3%A1ticos;Automatizando+fluxos+de+trabalho;Debugando+e+aprendendo" alt="Typing SVG" />
@@ -12,11 +12,9 @@
 
 ## Sobre Mim
 
-Sou designer gráfica em transição para Automação com IA.
+Construo automações e agentes de IA com n8n, Python e FastAPI. Meus projetos em destaque são o CV Shield, que analisa currículos em PDF em busca de prompt injection e texto oculto, e um assistente de agendamento para barbearia no n8n.
 
-Estou construindo projetos práticos com n8n e Python, explorando agentes de IA, automação de fluxos de trabalho, integrações de API e análise de documentos.
-
-Minha experiência em design e branding molda a forma como eu lido com criatividade, comunicação e resolução de problemas.
+Venho de mais de 3 anos em design gráfico, social media e produção audiovisual (Brasil e Portugal). Isso me deixou com foco no usuário e cuidado com comunicação, e eu uso isso ao escrever prompts e desenhar fluxos.
 
 Tenho interesse em construir soluções úteis enquanto aprimoro continuamente minhas habilidades técnicas.
 
@@ -34,23 +32,25 @@ Tenho interesse em construir soluções úteis enquanto aprimoro continuamente m
 
 ### Habilidades Atuais e Áreas de Atuação
 
-* Fundamentos de Python
-* Fundamentos de Banco de Dados
+* Python e FastAPI
+* Extração de texto de PDF (pypdf)
+* Testes automatizados (unittest)
 * Automação de Fluxos de Trabalho com n8n
-* Agentes de IA
-* Integrações de API
+* Agentes de IA e Engenharia de Prompt
+* Integrações de API (Google Calendar e Sheets, Groq, OpenRouter)
 * JSON e Manipulação de Dados
-* Engenharia de Prompt
+* Fundamentos de Banco de Dados
 * Git & GitHub
 
 ### Aprendizado
 
+* Formação oficial em n8n (2026) — **concluído**
+* Python: Fundamentos de Programação (EV.G) — **concluído**
 * Banco de Dados: fundamentos (IFRS) — **concluído**
-* Aprendendo com Python (Enap) — **concluído**
-* Python: Programação Aplicada 
-* Automação com IA 
-* Integrações de API 
-* Fluxos de Automação 
+* Python: Programação Aplicada
+* Automação com IA
+* Integrações de API
+* Fluxos de Automação
 * Scrum e Gestão Ágil de Projetos
 
 ## Projetos em Destaque
@@ -69,7 +69,7 @@ Tem API em FastAPI, formulário no n8n, comando de lote com relatório HTML e ma
 
 ## Trajetória
 
-Antes de migrar para automação, trabalhei com design gráfico e branding no Brasil e em Portugal.
+Antes de migrar para automação, trabalhei com design gráfico, social media e audiovisual no Brasil e em Portugal.
 
 Minha experiência criativa influencia a forma como lido com resolução de problemas, comunicação e experiência do usuário.
 
